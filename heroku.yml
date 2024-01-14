@@ -1,6 +1,6 @@
 build:
   docker:
-      worker: Procfile
+      worker: Dockerfile
 
       # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
