@@ -173,7 +173,18 @@ Nᴀᴍᴇ - {}"""
 
     SHORTLINK_INFO = """
 
-🫵 Select Your Language And Earn Money 💰"""
+🫵  𝖧𝗂 Guys.
+𝖮𝗎𝗋 𝖡𝗈𝗍 𝖨𝗌 𝖦𝗂𝗏𝗂𝗇𝗀 𝖣𝗂𝗋𝖾𝖼𝗍 𝖥𝗂𝗅𝖾𝗌 𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖲𝗁𝗈𝗋𝗍𝗇𝖾𝗋𝗌, 𝖴𝗇𝗅𝗂𝗄𝖾 𝖮𝗍𝗁𝖾𝗋 𝖡𝗈𝗍𝗌. 𝖲𝗈 𝖨𝖿 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾 𝖮𝗎𝗋 𝖥𝗋𝖾𝖾 𝖲𝖾𝗋𝗏𝗂𝖼𝖾 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇𝖺𝗍𝖾 𝖴𝗌
+ 𝖶𝗁𝗂𝖼𝗁 𝖶𝗂𝗅𝗅 𝖡𝖾 𝖱𝖾𝖺𝗅𝗅𝗒 𝖧𝖾𝗅𝗉𝖿𝗎𝗅𝗅 𝖥𝗈𝗋 𝖴𝗌.
+
+𝖠𝗇𝗒 𝖠𝗆𝗈𝗎𝗇𝗍 𝖶𝗈𝗎𝗅𝖽 𝖡𝖾 𝖥𝗂𝗇𝖾 (10, 20, 30, 50, 100...) 𝖠𝗌 𝖫𝗈𝗇𝗀 𝖠𝗌 𝖸𝗈𝗎 𝖳𝗁𝗂𝗇𝗄 𝖮𝗎𝗋 𝖡𝗈𝗍 D𝖾𝗌𝖾𝗋𝗏𝖾𝗌 𝖨𝗍.
+
+Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Channel lo Undadu. Inka Mi Istam 
+
+𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
+𝗨𝗣𝗜 𝗜𝗗:- ⏩ movieloverz@ybl ⏪
+  
+𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍."""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
