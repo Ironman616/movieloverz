@@ -183,7 +183,7 @@ Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Chann
 
 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
 𝗨𝗣𝗜 𝗜𝗗:-  thor11770@oksbi 
-QR CODE:- https://t.ly/0RrPE (Open Link,Save QR and Pay)
+QR CODE:- 👉<a href=https://t.ly/0RrPE>QRCODE</a> (Open Link,Save QR and Pay)
   
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍."""
 
@@ -202,7 +202,7 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna Join Panni Try Again Buttana Click Pannu😅"""
+🫣 If you Want Movie First Join Our Main channel then click on try again😅"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
