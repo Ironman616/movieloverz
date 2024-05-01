@@ -182,8 +182,8 @@ Nᴀᴍᴇ - {}"""
 Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Channel lo Undadu. Inka Mi Istam 
 
 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
-𝗨𝗣𝗜 𝗜𝗗:-  thor11770@oksbi 
-QR CODE:- 👉<a href=https://t.ly/0RrPE>QRCODE</a> (Open Link,Save QR and Pay)
+𝗨𝗣𝗜 𝗜𝗗:- <code>movieloverz11220@okaxis</code>
+QR CODE:- 👉<a href=https://graph.org/file/1e1e883ef2309c91aad77.jpg>SCAN QR CODE</a> (Open Link,Save QR and Pay)
   
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍."""
 
